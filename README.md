@@ -10,3 +10,5 @@ hostnamectl set-hostname ИМЯ_МАШИНЫ; exec bash
 нажать enter
 ```
 EXEC BASH перечитывает конфигурацию, не надо ребутать машину
+
+#### Назначим IP адреса
