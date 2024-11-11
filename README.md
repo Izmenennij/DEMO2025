@@ -29,4 +29,8 @@ nmtui
 #### Настройка OSPF
 
 Для прохождения трафика необходимо включить forwarding на ISP
+```
+nano /etc/net/sysctl.conf
+```
+*Меняем net.ipv4.ip_forward на 1*
 
